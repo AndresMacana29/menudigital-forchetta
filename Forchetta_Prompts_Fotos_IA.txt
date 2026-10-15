@@ -1,0 +1,353 @@
+=====================================================================
+FORCHETTA - PROMPTS PARA FOTOS DE PRODUCTOS (ChatGPT / Leonardo)
+=====================================================================
+
+COMO USARLO
+1. Abre UNA conversacion nueva en ChatGPT y pega primero el BLOQUE DE ESTILO
+   (asi mantiene el mismo look en todas las fotos).
+2. Luego pega el prompt de cada producto, uno por uno.
+3. Si tienes foto real del plato, adjuntala y agrega al inicio:
+   "Use the attached photo as reference for the dish composition."
+4. Formato: cuadrado 1:1. Guarda cada imagen con el id del producto
+   (ej: 01.jpg, 02.jpg ...) y ponla en la carpeta img/ del proyecto.
+5. Genera primero 3 (ids 1, 9, 15), compara, y recien ahi sigue con el resto.
+6. Si un ingrediente no se ve, repite agregando:
+   "make the [ingrediente] clearly visible".
+
+=====================================================================
+BLOQUE DE ESTILO PARA COMIDA (pegar al final de cada prompt de comida)
+=====================================================================
+STYLE: Professional food photography, square 1:1, shot from a low 30-degree
+angle, shallow depth of field, dark moody restaurant background with warm
+blurred golden bokeh lights, rustic dark wood table, served in black
+handmade clay dishware, warm amber lighting, glossy appetizing textures,
+melted cheese, light steam, ultra realistic, high detail, no text, no logos,
+no people, no hands.
+
+NOTA: en hamburguesas usar siempre "smooth glossy brioche bun, no sesame".
+
+=====================================================================
+BLOQUE DE ESTILO PARA BEBIDAS (pegar al final de cada prompt de bebida)
+=====================================================================
+STYLE: Professional beverage photography, square 1:1, eye-level angle,
+shallow depth of field, dark moody restaurant background with warm blurred
+golden bokeh lights, rustic dark wood table, black clay coaster, water
+condensation droplets, warm amber lighting, ultra realistic, high detail,
+no text, no logos, no people, no hands.
+
+=====================================================================
+HAMBURGUESAS (todas: plato negro de barro, papas gruesas al lado,
+papel kraft envolviendo la base)
+=====================================================================
+
+[1] FORCHETTA - $28.000
+A tall gourmet burger on a black clay plate: smooth glossy brioche bun, 140g
+beef patty, melted cheddar, fried sweet plantain slices, shredded beef and
+chicken with corn and chorizo, fried egg, chicken in creamy mushroom sauce,
+crispy bacon, lettuce and tomato. Thick-cut golden fries on the side.
++ STYLE
+
+[2] GOLOSA - $25.000
+Burger on a black clay plate: smooth glossy brioche bun, 140g beef patty,
+melted mix of cheeses, fried egg, beef in rich dark house sauce, fresh
+guacamole, crispy pork rind (chicharron) pieces, lettuce and tomato.
+Thick-cut golden fries on the side.
++ STYLE
+
+[3] LA DOBLE - $28.000
+Double burger on a black clay plate: smooth glossy brioche bun, two 140g beef
+patties, double melted cheddar, fried sweet plantain slices, cream cheese,
+bacon jam, lettuce and tomato. Thick-cut golden fries on the side.
++ STYLE
+
+[4] DOBLE FUSION - $28.000
+Double burger on a black clay plate: smooth glossy brioche bun, two 140g beef
+patties, double melted cheddar, fried sweet plantain slices, crispy bacon,
+lettuce and tomato. Thick-cut golden fries on the side.
++ STYLE
+
+[5] FORCHINA - $25.000
+Burger on a black clay plate: smooth glossy brioche bun, 140g beef patty,
+chicken in creamy mushroom sauce, fried sweet plantain slices, chorizo in
+golden physalis (uchuva) sauce, lettuce and tomato. Thick-cut golden fries
+on the side.
++ STYLE
+
+[6] MEXICANA - $25.000
+Burger on a black clay plate: smooth glossy brioche bun, 140g beef patty,
+shredded beef and chicken with corn and chorizo, fried sweet plantain slices,
+sliced green jalapenos, lettuce and tomato. Thick-cut golden fries on the side.
++ STYLE
+
+[7] CHAMPINUA - $25.000
+Burger on a black clay plate: smooth glossy brioche bun, 140g beef patty,
+chicken in creamy mushroom sauce, fried sweet plantain slices, lettuce and
+tomato. Thick-cut golden fries on the side.
++ STYLE
+
+[8] CRIOLLA - $21.000
+Burger on a black clay plate: smooth glossy brioche bun, 140g beef patty,
+fried sweet plantain slices, fried egg, crispy bacon, lettuce and tomato.
+Thick-cut golden fries on the side.
++ STYLE
+
+[9] SENCILLA - $17.000
+Classic burger on a black clay plate: smooth glossy brioche bun, 140g beef
+patty, fried sweet plantain slices, crispy bacon, lettuce and tomato.
+Thick-cut golden fries on the side.
++ STYLE
+
+[10] MINI - $15.000
+Small burger on a black clay plate: small smooth glossy brioche bun, 80g beef
+patty, melted cheddar, a fried sweet plantain slice, bacon and chicken in
+creamy mushroom sauce. A few thick-cut fries on the side.
++ STYLE
+
+=====================================================================
+PERROS CALIENTES (plato negro alargado de barro o tabla de madera
+oscura con papel kraft)
+=====================================================================
+
+[11] CALLEJERO - $22.000
+A loaded hot dog in a soft bun on a black clay plate: American sausage,
+shredded beef in dark house sauce, crispy bacon and fresh guacamole on top.
++ STYLE
+
+[12] MEXICANO - $22.000
+A loaded hot dog in a soft bun on a black clay plate: American sausage,
+shredded beef and chicken, corn kernels, chorizo, melted cheese and small
+diced fried sweet plantain cubes.
++ STYLE
+
+[13] SENCILLO - $14.000
+A simple hot dog in a soft bun on a black clay plate: American sausage
+topped with crunchy crushed potato sticks and grated cheese.
++ STYLE
+
+[14] CHAMPINUO - $22.000
+A loaded hot dog in a soft bun on a black clay plate: American sausage,
+chicken in creamy mushroom sauce, melted cheese and fried sweet plantain
+pieces.
++ STYLE
+
+=====================================================================
+PAPAS (bowl negro rustico de barro, papa gruesa)
+=====================================================================
+
+[15] PAPAS MIXTAS - $28.000
+A black rustic clay bowl filled with thick-cut fries topped with shredded
+beef and chicken with corn and chorizo, melted cheese and fresh pico de gallo.
++ STYLE
+
+[16] PAPAS CHAMPINUAS - $28.000
+A black rustic clay bowl filled with thick-cut fries topped with chicken in
+creamy mushroom sauce, melted cheese and fresh pico de gallo.
++ STYLE
+
+[17] PAPAS BOMBA - $28.000
+A black rustic clay bowl filled with thick-cut fries topped with sliced
+jalapeno chorizo, sliced sausage, beef in dark house sauce and fresh
+guacamole.
++ STYLE
+
+[18] PAPAS CLASICAS - $12.000
+A black rustic clay bowl filled with thick-cut fries topped with sliced
+sausage and grated cheese.
++ STYLE
+
+=====================================================================
+TACOS (2 tacos sobre plato negro de barro, tortilla de maiz)
+=====================================================================
+
+[19] TACO MIXTO - $14.000
+Two soft corn tortilla tacos on a black clay plate filled with shredded beef
+and chicken, corn kernels and chorizo, with a small lime wedge.
++ STYLE
+
+[20] TACO DE POLLO - $14.000
+Two soft corn tortilla tacos on a black clay plate filled with chicken in
+creamy mushroom sauce, with a small lime wedge.
++ STYLE
+
+[21] TACO DE CARNE - $14.000
+Two soft corn tortilla tacos on a black clay plate filled with beef in dark
+house sauce, with a small lime wedge.
++ STYLE
+
+=====================================================================
+PATACONES (patacon = tostón plano de platano verde, base crujiente)
+=====================================================================
+
+[22] PATACON MIXTO - $24.000
+A large crispy flattened green plantain (patacon) on a black clay plate,
+topped with chicken in creamy mushroom sauce, beef in dark house sauce and
+grated cheese.
++ STYLE
+
+[23] PATACON DE CARNE - $20.000
+A large crispy flattened green plantain (patacon) on a black clay plate,
+topped with beef in dark house sauce and grated cheese.
++ STYLE
+
+[24] PATACON DE POLLO - $20.000
+A large crispy flattened green plantain (patacon) on a black clay plate,
+topped with chicken in creamy mushroom sauce and grated cheese.
++ STYLE
+
+=====================================================================
+CARNES (plato negro grande de barro; todos con papa francesa, patacon y
+guacamole al lado)
+=====================================================================
+
+[25] PICADA FORCHETTA - $50.000
+A large black clay platter to share: thick-cut fries, glazed pork ribs in
+golden physalis sauce, beef and chicken breast fajita strips, jalapeno
+chorizo in dark house sauce, crispy patacon and a side of fresh guacamole.
++ STYLE
+
+[26] CHURRASCO - $37.000
+A grilled churrasco steak, juicy and sliced, on a black clay plate with
+thick-cut fries, a crispy patacon and fresh guacamole.
++ STYLE
+
+[27] PECHUGA - $28.000
+A grilled chicken breast on a black clay plate with thick-cut fries, a
+crispy patacon and fresh guacamole.
++ STYLE
+
+[28] PECHUGA GRATINADA - $35.000
+A grilled chicken breast covered with melted gratin cheese on a black clay
+plate with thick-cut fries, a crispy patacon and fresh guacamole.
++ STYLE
+
+[29] MIX DE CARNES - $35.000
+A grilled chicken breast and a beef steak together on a black clay plate with
+thick-cut fries, a crispy patacon and fresh guacamole.
++ STYLE
+
+[30] ALITAS - $25.000
+Glazed chicken wings in a dark sticky cola sauce, on a black clay plate with
+thick-cut fries, a crispy patacon and fresh guacamole.
+(Para variante uchuva: "in a golden physalis sauce" en vez de cola.)
++ STYLE
+
+[31] COSTILLAS - $37.000
+Glazed pork ribs in a dark sticky cola sauce, on a black clay plate with
+thick-cut fries, a crispy patacon and fresh guacamole.
+(Para variante uchuva: "in a golden physalis sauce" en vez de cola.)
++ STYLE
+
+=====================================================================
+BEBIDAS - usar BLOQUE DE ESTILO PARA BEBIDAS
+Recomendacion: para marcas reales (Coca-Cola, Bretana, Hatsu, Hit,
+Mr. Tea, Gatorade, Aguila, Club Colombia, Coronita) lo mejor es una foto
+real del producto; la IA no reproduce bien las etiquetas. Aqui van
+versiones genericas SIN marca, que sirven si prefieres homogeneidad.
+=====================================================================
+
+[32] GASEOSA 1.5L - $9.000
+A tall glass of dark cola with ice cubes and a red-white striped straw,
+next to a generic unbranded large plastic bottle with no label.
++ STYLE BEBIDAS
+
+[33] GASEOSA 400ml - $5.000
+A glass of dark cola with ice cubes and a straw, a small unbranded bottle
+beside it with no label.
++ STYLE BEBIDAS
+
+[34] COCA-COLA LATA - $5.000
+An unbranded cold aluminum can in red with water condensation, next to a
+glass of dark cola with ice.
++ STYLE BEBIDAS
+
+[35] BRETANA - $5.000
+A glass of clear sparkling ginger-lime soda with ice and bubbles, next to a
+small unbranded bottle with no label.
++ STYLE BEBIDAS
+
+[36] SODA HATSU - $6.000
+A tall glass of sparkling soda with ice, bubbles and a lime slice, next to
+an unbranded bottle with no label.
++ STYLE BEBIDAS
+
+[37] REFAJO ANDINA - $4.000
+A tall glass of golden beer mixed with red soda (refajo) with foam on top
+and ice bubbles, next to an unbranded bottle with no label.
++ STYLE BEBIDAS
+
+[38] JUGO HIT - $4.000
+A glass of orange fruit juice with ice, next to an unbranded small
+rectangular juice carton with no label.
++ STYLE BEBIDAS
+
+[39] MR. TEA - $4.000
+A glass of iced tea with lemon slice and ice cubes, next to an unbranded
+bottle with no label.
++ STYLE BEBIDAS
+
+[40] GATORADE - $5.000
+An unbranded sports drink bottle with no label, with a vivid orange liquid,
+next to a glass of the same drink with ice and condensation.
++ STYLE BEBIDAS
+
+[41] AGUA 600ml - $3.000
+An unbranded 600ml water bottle with no label covered in condensation next
+to a glass of ice water.
++ STYLE BEBIDAS
+
+[42] AGUA 300ml - $2.000
+A small unbranded 300ml water bottle with no label, covered in condensation.
++ STYLE BEBIDAS
+
+[43] AGUILA - $4.000
+A cold unbranded golden lager bottle with no label, with condensation, next
+to a glass of golden beer with white foam.
++ STYLE BEBIDAS
+
+[44] AGUILA LIGHT - $4.000
+A cold unbranded light golden lager bottle with no label, with condensation,
+next to a glass of pale golden beer with white foam.
++ STYLE BEBIDAS
+
+[45] CLUB COLOMBIA - $6.000
+A cold unbranded amber lager bottle with no label, with condensation, next
+to a glass of amber beer with creamy foam.
++ STYLE BEBIDAS
+
+[46] CORONITA - $5.000
+A small unbranded clear glass beer bottle with no label, with a lime wedge in
+the neck and condensation, next to a short glass with ice.
++ STYLE BEBIDAS
+
+[47] LIMONADA NATURAL - $8.000
+A tall glass of fresh lemonade with ice, lemon slices and mint leaves,
+with a straw.
++ STYLE BEBIDAS
+
+[48] JUGO EN AGUA - $9.000
+A tall glass of fresh fruit juice made with water, orange-pink color, with
+ice and a fresh fruit slice on the rim. (Cambia la fruta por el sabor que
+quieras mostrar.)
++ STYLE BEBIDAS
+
+[49] JUGO EN LECHE - $10.000
+A tall glass of creamy fruit smoothie made with milk, thick and pastel
+colored, with a fresh fruit slice on the rim and a straw.
++ STYLE BEBIDAS
+
+[50] LIMONADAS - $10.000
+A tall glass of flavored lemonade (cherry, coconut or mint), vivid color,
+with ice, lemon slices and a garnish. (Ajusta el sabor segun lo que ofrezcan.)
++ STYLE BEBIDAS
+
+=====================================================================
+ADICIONALES (51-55): NO necesitan foto. Si el cliente quiere, usa un
+emoji o el icono de la categoria.
+=====================================================================
+
+=====================================================================
+CHECKLIST ANTES DE GENERAR
+- Confirmar con Forchetta los sabores de jugos/limonadas (ids 48-50).
+- Confirmar si las alitas/costillas se ofrecen en ambas salsas.
+- Si hay foto real del plato, preferir foto real mejorada.
+=====================================================================
